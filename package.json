@@ -1,0 +1,27 @@
+{
+  "name": "redux-tiny-logger",
+  "version": "1.0.0",
+  "description": "redux tiny logger",
+  "repository": "coderhaoxin/redux-tiny-logger",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "babel lib --out-dir build",
+    "prepublish": "npm run build",
+    "test": "echo todo"
+  },
+  "keywords": [
+    "logger",
+    "redux",
+    "tiny"
+  ],
+  "files": [
+    "build/"
+  ],
+  "author": "haoxin",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "6",
+    "babel-core": "6",
+    "babel-preset-es2015": "6"
+  }
+}
