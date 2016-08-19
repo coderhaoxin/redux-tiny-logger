@@ -1,6 +1,6 @@
 {
   "name": "redux-tiny-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "redux tiny logger",
   "repository": "coderhaoxin/redux-tiny-logger",
   "main": "build/index.js",
